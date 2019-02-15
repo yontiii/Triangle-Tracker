@@ -22,15 +22,20 @@ img{
   background-size: cover;
   height: 500px;
 }
-.finish{
-  background-image: url('https://images.pexels.com/photos/792972/pexels-photo-792972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+.content{
+  background-image: url('https://images.pexels.com/photos/1340397/pexels-photo-1340397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
   background-size: cover;
-  height:300px;
+  height: 350px;
+  padding-top: 30px;
+  width: 500px;
+  text-align: center;
+  margin-right: 45px;
 }
-.form{
-  float: left;
-  margin-right: 20px;
+input{
+  padding: 20px;
+  box-shadow: 4px 4px 5px #DF594B;
 }
-.finish{
-  clear: both;
-}
+#test {
+  float: right;
+
+border: 2px orange;
