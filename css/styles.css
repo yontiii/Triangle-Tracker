@@ -5,4 +5,30 @@ img {
 }
 body{
   text-align: center;
+  background-color: #171718;
+  color:white;
+}
+#images {
+  float: right;
+}
+img{
+  width: 250px;
+  height:200px;
+}
+.headings{
+  background-image: url('https://images.pexels.com/photos/1340382/pexels-photo-1340382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-size: cover;
+  height: 500px;
+}
+.finish{
+  background-image: url('https://images.pexels.com/photos/792972/pexels-photo-792972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-size: cover;
+  height:300px;
+}
+.form{
+  float: left;
+  margin-right: 20px;
+}
+.finish{
+  clear: both;
 }
