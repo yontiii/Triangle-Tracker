@@ -4,11 +4,15 @@ img {
   border-radius:100px;
 }
 body{
-  text-align: center;
+  text-align: left;
   background-color: #171718;
   color:white;
   font-family: 'ZCOOL XiaoWei', serif;
   font-size: 24px;
+}
+h4{
+  text-align: center;
+  text-decoration: underline #F45328 ;
 }
 #images {
   float: right;
@@ -31,6 +35,10 @@ span{
   width: 100%;
   text-align: center;
   margin-right: 45px;
+}
+.form{
+  text-align: center;
+  border-radius: 45px;
 }
 input{
   padding: 15px;
