@@ -2,7 +2,7 @@ function track() {
   var value1 =parseInt(document.getElementById('a').value);
   var value2 =parseInt(document.getElementById('b').value);
   var value3 =parseInt(document.getElementById('c').value);
-  var form = document.getElementById('form1')
+
 
   if (value1+value2 > value3 && value2+value3>value1 && value1+value3>value2){
     if (value1==value2 && value2==value3 && value1==value3) {
