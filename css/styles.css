@@ -42,6 +42,7 @@ span{
 input{
   padding: 15px;
   box-shadow: 4px 4px 5px #DF594B;
+  margin-right: 10px;
 }
 .form{
   float: left;
@@ -58,4 +59,12 @@ fieldset{
 a{
   text-decoration: none;
   color: #F45328;
+}
+a:hover{
+  color:#F56B4F;
+  text-decoration: underline;
+}
+#submit:hover{
+  text-transform: uppercase;
+  color: #F56B4F;
 }
