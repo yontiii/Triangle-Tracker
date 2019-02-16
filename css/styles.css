@@ -7,7 +7,7 @@ body{
   text-align: center;
   background-color: #171718;
   color:white;
-  font-family: 'Courgette', cursive;
+  font-family: 'ZCOOL XiaoWei', serif;
   font-size: 24px;
 }
 #images {
@@ -17,25 +17,26 @@ img{
   width: 250px;
   height:200px;
 }
+span{
+  color: #F45328;
+}
 .headings{
   background-image: url('https://images.pexels.com/photos/1340382/pexels-photo-1340382.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
   background-size: cover;
   height: 500px;
+  margin-top: 0 auto;
 }
 .content{
-  background-image: url('https://images.pexels.com/photos/1340397/pexels-photo-1340397.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
-  background-size: cover;
-  height: 350px;
   padding-top: 30px;
-  width: 500px;
+  width: 100%;
   text-align: center;
   margin-right: 45px;
 }
 input{
-  padding: 20px;
+  padding: 15px;
   box-shadow: 4px 4px 5px #DF594B;
 }
-#test {
-  float: right;
-
-border: 2px orange;
+.form{
+  float: left;
+  clear: none;
+}
