@@ -64,6 +64,9 @@ a:hover{
   color:#F56B4F;
   text-decoration: underline;
 }
+#submit{
+  margin-top: 10px;
+}
 #submit:hover{
   text-transform: uppercase;
   color: #F56B4F;
