@@ -5,11 +5,12 @@ img {
 }
 body{
   text-align: left;
-  background-color: #171718;
-  color:white;
+  background-color: #CFCFCF;
+  color:black;
   font-family: 'ZCOOL XiaoWei', serif;
   font-size: 24px;
 }
+
 h4{
   text-align: center;
   text-decoration: underline #F45328 ;
@@ -29,6 +30,8 @@ span{
   background-size: cover;
   height: 500px;
   margin-top: 0 auto;
+  color: white;
+
 }
 .content{
   padding-top: 30px;
@@ -48,6 +51,10 @@ input{
 .form{
   float: left;
   clear: none;
+}
+#demo{
+  text-align: center;
+  border-radius: 24px;
 }
 fieldset{
   text-align: center;
