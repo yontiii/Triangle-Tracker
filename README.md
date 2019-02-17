@@ -2,3 +2,26 @@
 
 ## Project Definition
 This is a simple website used to determine the different types of triangles when the user enters different values.The program returns either a scalene triangle, equillateral triangle, isosceless triangle or No triangle depending on the entered values.
+
+# AUTHOR'S INFORMATION
+The project is written and coded by John Muasa Wathome, a junior web developer at Moringa School.
+
+# SETUP INSTRUCTIONS
+Once you load the program you go straight to the landing page.
+![landing page].(images/landing.png)
+
+You can now enter your values
+![values image].(images/sample.png)
+
+After entering your values click on the **SUBMIT** buttton then press See triangles
+![see triangle image].(images/see.png)
+
+You will now be able to see the type of triangle depending on the input rendered.
+![Type image].(images/valus.png)
+
+# BEHAVIOUR DRIVEN DEVELOPMENT
+
+| BEHAVIOUR          | INPUT EXAMPLE     |     OUTPUT EXAMPLE    |
+| :-------------        | :------------- | :------------------
+| When values entered cant make a triangle       | 9 4 3      | THIS IS NOT A TRIANGLE |
+| When values entered make an equillateral triangle | 6 6 6    | EQUILLATERAL TRIANGLE
