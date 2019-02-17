@@ -2,6 +2,7 @@ function track() {
   var value1 =parseInt(document.getElementById('a').value);
   var value2 =parseInt(document.getElementById('b').value);
   var value3 =parseInt(document.getElementById('c').value);
+  var form1 =document.getElementById('form1')
 
     if (value1+value2 > value3 && value2+value3>value1 && value1+value3>value2){
       if (value1==value2 && value2==value3 && value1==value3) {
@@ -11,12 +12,11 @@ function track() {
       document.getElementById('demo').innerHTML= 'This is a <strong>Scalene</strong> triangle <br> <img src="images/scalene.png">'
       }
       else{
-        document.getElementById('demo').innerHTML='This is a <strong>isoscel</strong> triangle <br> <img src="images/isosceless.png">'
+        document.getElementById('demo').innerHTML='This is a <strong>isosceless</strong> triangle <br> <img src="images/isosceless.png">'
       }
     }
     else{
       document.getElementById('demo').innerHTML ='This is <strong>NOT A TRIANGLE</strong> <br>  <img src="images/warning.png">'
     }
-
-
+    form1.reset()
 }

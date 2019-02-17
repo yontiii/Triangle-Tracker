@@ -43,6 +43,7 @@ input{
   padding: 15px;
   box-shadow: 4px 4px 5px #DF594B;
   margin-right: 10px;
+  border-radius: 20px;
 }
 .form{
   float: left;
