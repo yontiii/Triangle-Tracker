@@ -8,7 +8,7 @@ The project is written and coded by John Muasa Wathome, a junior web developer a
 
 # SETUP INSTRUCTIONS
 Once you load the program you go straight to the landing page.
-![landing page].(images/landing.png)
+![landing page](images/landing.png)
 
 You can now enter your values
 ![values image](images/sample.png)
