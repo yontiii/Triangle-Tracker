@@ -11,7 +11,7 @@ function track() {
       document.getElementById('demo').innerHTML= 'This is a <strong>Scalene</strong> triangle <br> <img src="images/scalene.png">'
       }
       else{
-        document.getElementById('demo').innerHTML='This is a <strong>isosceless</strong> triangle <br> <img src="images/isosceless.jpeg">'
+        document.getElementById('demo').innerHTML='This is an <strong>isosceless</strong> triangle <br> <img src="images/isosceless.jpeg">'
       }
     }
     else{
