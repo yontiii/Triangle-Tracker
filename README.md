@@ -11,12 +11,15 @@ Once you load the program you go straight to the landing page.
 ![landing page](images/landing.png)
 
 You can now enter your values
+
 ![values image](images/sample.png)
 
 After entering your values click on the **SUBMIT** buttton then press See triangles
+
 ![see triangle image](images/see.png)
 
 You will now be able to see the type of triangle depending on the input rendered.
+
 ![Type image](images/valus.png)
 
 # BEHAVIOUR DRIVEN DEVELOPMENT
