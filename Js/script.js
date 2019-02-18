@@ -2,7 +2,7 @@ function track() {
   var value1 =parseInt(document.getElementById('a').value);
   var value2 =parseInt(document.getElementById('b').value);
   var value3 =parseInt(document.getElementById('c').value);
-  if (value1<==0 || value2==1 || value3<=0){
+  if (value1<==0 || value2<==1 || value3<==0){
     alert("ENTER NUMERIC VALUES!")
   }
   else{
